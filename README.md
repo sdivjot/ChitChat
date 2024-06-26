@@ -2,6 +2,7 @@
 # ChitChat: A Socket.IO based chatting application
 
 ChitChat is a real-time chatting application based on MERN stack. The application integrates Socket.IO along with Node-Express REST framework and MongoDB database to ensure secure and efficient communication between users.
+Live Demo: https://chitchat-deployment.onrender.com
 ***
 ## *Server*
 
