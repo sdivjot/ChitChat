@@ -24,5 +24,6 @@ ChitChat is a real-time chatting application based on MERN stack. The applicatio
 
 **DaisyUI:** Integrated with Tailwind for direct theme usage and rapid UI development.
 
+***
 
 ## *Screenshots*
